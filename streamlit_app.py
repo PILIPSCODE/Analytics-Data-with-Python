@@ -143,7 +143,7 @@ def create_aqi_categoryPM10(main_df):
     return AQI_by_PM10
 
 
-all_df = pd.read_csv("./all_data.csv")
+all_df = pd.read_csv("./")
 
 
 datetime_columns = ["date"]
