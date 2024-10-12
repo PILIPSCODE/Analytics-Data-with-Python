@@ -219,7 +219,7 @@ plt.show()
 st.pyplot(fig)
 
 
-colors = ["#2FCA30", "#212121", "#ffcc00", "#FE0000", "#ff6666", "#9B30FF"]
+colors = ["#2FCA30", "#660099", "#ffcc00", "#FE0000", "#ff6666", "#9B30FF"]
 sizes1 = AQI_category_df["AQI"]
 labels1 = AQI_category_df["category"]
 
